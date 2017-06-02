@@ -23,7 +23,7 @@
       close.classList.add("close");
 
       img = document.createElement("img");
-      img.setAttribute("src", "http://tojaeurope.com/gallery/Close-icon.png");
+      img.setAttribute("src", "https://www.iconfinder.com/data/icons/mayssam/512/cross-128.png");
 
       close.appendChild(img);
       modal.appendChild(close);
