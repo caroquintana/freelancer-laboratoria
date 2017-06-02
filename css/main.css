@@ -167,5 +167,46 @@ section.contactme{
     text-align: center;
     padding: 100px 0 10px 0;
 }
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    width: 420px;
+    height: 19px;
+    margin: 31px;
+    border-color: gray;
+    font-size: 18px;
+}
 
+button.send{
+	width: 100px;
+	margin-right: 318px;
+}
 
+button.send:hover{
+	background: #128F76;
+	color: #fff;
+}
+
+/* estilo seccion footer*/
+.contfooter{
+	width: 100%;
+	height: 180px;
+    margin-top: 325px;
+	background-color: #2C3E50;
+	display: block;
+	right: 0;
+	color: white;
+
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+	background-color: #233140;
+	display: block;
+	right: 0;
+	text-align: center;
+	color: white;
+}
