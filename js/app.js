@@ -6,7 +6,6 @@
   var traerGaleria = Array.from(document.getElementsByClassName("caja"));
   var modal = document.getElementById("cajamodal");
 
-  
 
   var bodyModal, close, img;
   
